@@ -68,6 +68,15 @@ class Cola:
             print(nodo_actual)
             nodo_actual = nodo_actual.siguiente
 
+class Estudiante:
+    def __init__(self, nombre, id, categoria):
+        self.nombre = nombre
+        self.id = id
+        self.categoria = categoria
+
+    def recargar_creditos(self, num_creditos):
+        self.creditos = num_creditos
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
