@@ -37,5 +37,5 @@ DE SOLUCIÓN
    
 5. ¿Es más eficiente utilizar PILAS y COLAS con LISTAS ENLAZADAS?, ¿Por
 qué?
-    <p>Es más eficiente, cosa que ya se empieza a demostrar en el curso con proyectos más grandes, demostrando la utilidad y dinamismo de las lsitas enlazadase incluso en un proyecto con estudiantes que deban tener más datos, se vuelve mucho mejor el uso de estas estructuras.</p>
+    <p>Es más eficiente, cosa que ya se empieza a demostrar en el curso con proyectos más grandes, demostrando la utilidad y dinamismo de las lsitas enlazadas incluso en un proyecto con estudiantes que deban tener más datos, se vuelve mucho mejor el uso de estas estructuras.</p>
 <hr>
