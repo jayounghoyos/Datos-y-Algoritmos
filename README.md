@@ -3,12 +3,11 @@
 ## Integrantes
 - Juan Andrés Young Hoyos
 - Joseph Saldarriaga
-- Sofia Florez Suárez
+- Sofia Flores Suárez
 
----
 
-## Esquema del proyecto
-![Esquema del Proyecto](Scheme.jpg)
+## Scheme
+![Scheme](scheme.jpg)
 
 ## Preguntas asociadas al problema
 
@@ -30,4 +29,3 @@ Responda a las siguientes preguntas y adjunte a la propuesta de solución:
 
 5. **¿Es más eficiente utilizar PILAS y COLAS con LISTAS ENLAZADAS? ¿Por qué?**
     - <p>En nuestro proyecto, el uso de pilas y colas implementadas con listas enlazadas es esencial para manejar eficientemente el flujo de estudiantes en el parqueadero. Las listas enlazadas permiten añadir y quitar estudiantes rápidamente sin reorganizar toda la estructura, lo cual es una ventaja significativa frente a los arrays, especialmente cuando no conocemos el volumen exacto de estudiantes que usarán el parqueadero. Esta eficiencia se traduce en un mejor rendimiento del sistema y una gestión del tiempo más efectiva, lo que es crítico para un entorno dinámico como el de un parqueadero universitario.</p>
----
