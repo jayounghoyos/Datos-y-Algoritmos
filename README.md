@@ -7,7 +7,7 @@
 
 
 ## Scheme
-![Scheme](scheme.jpg)
+![Scheme](Scheme.jpg)
 
 ## Preguntas asociadas al problema
 
